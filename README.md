@@ -7,7 +7,7 @@ In this I created:
 • Pagination with each Page showing 6 Products maximum and thus a total of 4 pages. 
 • Product detail Page for each Product upon clicking Buy button.
 • Category filtering with products.
-• Product search feature.
+• Search feature for Products.
 • Responsive Design across all Devices.
 
 Project done with: React JS | Vite JS | Redux & Redux Toolkit | React Router v6 | React Bootstrap & Bootstrap | CSS Modules
