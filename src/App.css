@@ -1,0 +1,10 @@
+#root {
+  text-align: center;
+  background: url('/Background.jpg');
+  background-size: cover;
+}
+
+#inputID::placeholder {
+  color: #ff0000;
+  opacity: 1;
+}
